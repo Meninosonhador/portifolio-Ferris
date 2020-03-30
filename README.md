@@ -1,2 +1,6 @@
-# portifolio-Ferris
-portifolio do site Ferris Bueller
+# Ferris bueller
+Projeto desenvolvido para simular um portifólio de um clientes.
+
+**Tecnologias**
+- HTML
+- CSS
